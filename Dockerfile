@@ -1,4 +1,4 @@
-FROM alpine/git:1.0.7
+FROM alpine/git:v2.26.2
 WORKDIR /tmp
 
 RUN apk add libarchive-tools
