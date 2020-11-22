@@ -1,4 +1,7 @@
 FROM alpine/git:v2.26.2
+
+LABEL org.opencontainers.image.source="https://github.com/wbstack/docker-build-util"
+
 WORKDIR /tmp
 
 RUN apk add libarchive-tools
