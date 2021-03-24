@@ -4,7 +4,7 @@ LABEL org.opencontainers.image.source="https://github.com/wbstack/docker-build-u
 
 WORKDIR /tmp
 
-RUN apk add libarchive-tools curl
+RUN apk add --no-cache libarchive-tools curl
 
 # Set a docker email and user, otherwise places like github fatal saying "Please tell me who you are."
 RUN git config --global user.email "docker-build-util@wbstack.com" \
