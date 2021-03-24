@@ -1,5 +1,9 @@
 # util-fetcher
 
+## March 2021
+
+- 2.30.1-0.1 - base image udpate
+
 ## September 2020
 
 - 2.26.2-0.1 - git v2
