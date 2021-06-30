@@ -1,8 +1,12 @@
 # util-fetcher
 
+## June 2021
+
+- 2.30.2-0.1 - base image update
+
 ## March 2021
 
-- 2.30.1-0.1 - base image udpate
+- 2.30.1-0.1 - base image update
 
 ## September 2020
 
