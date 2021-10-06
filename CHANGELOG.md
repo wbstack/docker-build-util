@@ -1,5 +1,9 @@
 # util-fetcher
 
+## October 2021
+
+- 2.32.0-0.1 - base image update
+
 ## June 2021
 
 - 2.30.2-0.1 - base image update
