@@ -2,6 +2,7 @@
 
 ## October 2021
 
+- 2.32.0-0.2 - Retag of `2.32.0-0.1` after image name changed due to Github Actions change
 - 2.32.0-0.1 - base image update
 
 ## June 2021
