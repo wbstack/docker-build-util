@@ -1,4 +1,4 @@
-FROM alpine/git:v2.32.0
+FROM alpine/git:2.36.3
 
 LABEL org.opencontainers.image.source="https://github.com/wbstack/docker-build-util"
 
